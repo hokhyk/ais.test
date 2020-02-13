@@ -101,17 +101,17 @@
             <collectionProp name="HTTPFileArgs.files">
               <elementProp name="./resources/1.jpg" elementType="HTTPFileArg">
                 <stringProp name="File.path">./resources/1.jpg</stringProp>
-                <stringProp name="File.paramname">proof</stringProp>
+                <stringProp name="File.paramname">proof[]</stringProp>
                 <stringProp name="File.mimetype">image/jpeg</stringProp>
               </elementProp>
               <elementProp name="./resources/2.jpg" elementType="HTTPFileArg">
                 <stringProp name="File.path">./resources/2.jpg</stringProp>
-                <stringProp name="File.paramname">proof</stringProp>
+                <stringProp name="File.paramname">proof[]</stringProp>
                 <stringProp name="File.mimetype">image/jpeg</stringProp>
               </elementProp>
               <elementProp name="./resources/3.jpg" elementType="HTTPFileArg">
                 <stringProp name="File.path">./resources/3.jpg</stringProp>
-                <stringProp name="File.paramname">proof</stringProp>
+                <stringProp name="File.paramname">proof[]</stringProp>
                 <stringProp name="File.mimetype">image/jpeg</stringProp>
               </elementProp>
             </collectionProp>
@@ -174,215 +174,215 @@
                 <boolProp name="HTTPArgument.use_equals">true</boolProp>
                 <stringProp name="Argument.name">sign_at</stringProp>
               </elementProp>
-              <elementProp name="currency" elementType="HTTPArgument">
+              <elementProp name="currency[]" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">NTD</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
                 <boolProp name="HTTPArgument.use_equals">true</boolProp>
-                <stringProp name="Argument.name">currency</stringProp>
+                <stringProp name="Argument.name">currency[]</stringProp>
               </elementProp>
-              <elementProp name="currency" elementType="HTTPArgument">
+              <elementProp name="currency[]" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">NTD</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
                 <boolProp name="HTTPArgument.use_equals">true</boolProp>
-                <stringProp name="Argument.name">currency</stringProp>
+                <stringProp name="Argument.name">currency[]</stringProp>
               </elementProp>
-              <elementProp name="currency" elementType="HTTPArgument">
+              <elementProp name="currency[]" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">NTD</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
                 <boolProp name="HTTPArgument.use_equals">true</boolProp>
-                <stringProp name="Argument.name">currency</stringProp>
+                <stringProp name="Argument.name">currency[]</stringProp>
               </elementProp>
-              <elementProp name="currency" elementType="HTTPArgument">
+              <elementProp name="currency[]" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">NTD</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
                 <boolProp name="HTTPArgument.use_equals">true</boolProp>
-                <stringProp name="Argument.name">currency</stringProp>
+                <stringProp name="Argument.name">currency[]</stringProp>
               </elementProp>
-              <elementProp name="currency" elementType="HTTPArgument">
+              <elementProp name="currency[]" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">NTD</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
                 <boolProp name="HTTPArgument.use_equals">true</boolProp>
-                <stringProp name="Argument.name">currency</stringProp>
+                <stringProp name="Argument.name">currency[]</stringProp>
               </elementProp>
-              <elementProp name="unit_price" elementType="HTTPArgument">
+              <elementProp name="unit_price[]" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">10</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
                 <boolProp name="HTTPArgument.use_equals">true</boolProp>
-                <stringProp name="Argument.name">unit_price</stringProp>
+                <stringProp name="Argument.name">unit_price[]</stringProp>
               </elementProp>
-              <elementProp name="unit_price" elementType="HTTPArgument">
+              <elementProp name="unit_price[]" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">20</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
                 <boolProp name="HTTPArgument.use_equals">true</boolProp>
-                <stringProp name="Argument.name">unit_price</stringProp>
+                <stringProp name="Argument.name">unit_price[]</stringProp>
               </elementProp>
-              <elementProp name="unit_price" elementType="HTTPArgument">
+              <elementProp name="unit_price[]" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">30</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
                 <boolProp name="HTTPArgument.use_equals">true</boolProp>
-                <stringProp name="Argument.name">unit_price</stringProp>
+                <stringProp name="Argument.name">unit_price[]</stringProp>
               </elementProp>
-              <elementProp name="unit_price" elementType="HTTPArgument">
+              <elementProp name="unit_price[]" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">40</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
                 <boolProp name="HTTPArgument.use_equals">true</boolProp>
-                <stringProp name="Argument.name">unit_price</stringProp>
+                <stringProp name="Argument.name">unit_price[]</stringProp>
               </elementProp>
-              <elementProp name="unit_price" elementType="HTTPArgument">
+              <elementProp name="unit_price[]" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">50</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
                 <boolProp name="HTTPArgument.use_equals">true</boolProp>
-                <stringProp name="Argument.name">unit_price</stringProp>
+                <stringProp name="Argument.name">unit_price[]</stringProp>
               </elementProp>
-              <elementProp name="quantity" elementType="HTTPArgument">
+              <elementProp name="quantity[]" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">1</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
                 <boolProp name="HTTPArgument.use_equals">true</boolProp>
-                <stringProp name="Argument.name">quantity</stringProp>
+                <stringProp name="Argument.name">quantity[]</stringProp>
               </elementProp>
-              <elementProp name="quantity" elementType="HTTPArgument">
+              <elementProp name="quantity[]" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">2</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
                 <boolProp name="HTTPArgument.use_equals">true</boolProp>
-                <stringProp name="Argument.name">quantity</stringProp>
+                <stringProp name="Argument.name">quantity[]</stringProp>
               </elementProp>
-              <elementProp name="quantity" elementType="HTTPArgument">
+              <elementProp name="quantity[]" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">3</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
                 <boolProp name="HTTPArgument.use_equals">true</boolProp>
-                <stringProp name="Argument.name">quantity</stringProp>
+                <stringProp name="Argument.name">quantity[]</stringProp>
               </elementProp>
-              <elementProp name="quantity" elementType="HTTPArgument">
+              <elementProp name="quantity[]" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">4</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
                 <boolProp name="HTTPArgument.use_equals">true</boolProp>
-                <stringProp name="Argument.name">quantity</stringProp>
+                <stringProp name="Argument.name">quantity[]</stringProp>
               </elementProp>
-              <elementProp name="quantity" elementType="HTTPArgument">
+              <elementProp name="quantity[]" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">5</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
                 <boolProp name="HTTPArgument.use_equals">true</boolProp>
-                <stringProp name="Argument.name">quantity</stringProp>
+                <stringProp name="Argument.name">quantity[]</stringProp>
               </elementProp>
-              <elementProp name="exchange_rate" elementType="HTTPArgument">
+              <elementProp name="exchange_rate[]" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">1</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
                 <boolProp name="HTTPArgument.use_equals">true</boolProp>
-                <stringProp name="Argument.name">exchange_rate</stringProp>
+                <stringProp name="Argument.name">exchange_rate[]</stringProp>
               </elementProp>
-              <elementProp name="exchange_rate" elementType="HTTPArgument">
+              <elementProp name="exchange_rate[]" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">1</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
                 <boolProp name="HTTPArgument.use_equals">true</boolProp>
-                <stringProp name="Argument.name">exchange_rate</stringProp>
+                <stringProp name="Argument.name">exchange_rate[]</stringProp>
               </elementProp>
-              <elementProp name="exchange_rate" elementType="HTTPArgument">
+              <elementProp name="exchange_rate[]" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">1</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
                 <boolProp name="HTTPArgument.use_equals">true</boolProp>
-                <stringProp name="Argument.name">exchange_rate</stringProp>
+                <stringProp name="Argument.name">exchange_rate[]</stringProp>
               </elementProp>
-              <elementProp name="exchange_rate" elementType="HTTPArgument">
+              <elementProp name="exchange_rate[]" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">1</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
                 <boolProp name="HTTPArgument.use_equals">true</boolProp>
-                <stringProp name="Argument.name">exchange_rate</stringProp>
+                <stringProp name="Argument.name">exchange_rate[]</stringProp>
               </elementProp>
-              <elementProp name="exchange_rate" elementType="HTTPArgument">
+              <elementProp name="exchange_rate[]" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">1</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
                 <boolProp name="HTTPArgument.use_equals">true</boolProp>
-                <stringProp name="Argument.name">exchange_rate</stringProp>
+                <stringProp name="Argument.name">exchange_rate[]</stringProp>
               </elementProp>
-              <elementProp name="tax" elementType="HTTPArgument">
+              <elementProp name="tax[]" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">0.5</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
                 <boolProp name="HTTPArgument.use_equals">true</boolProp>
-                <stringProp name="Argument.name">tax</stringProp>
+                <stringProp name="Argument.name">tax[]</stringProp>
               </elementProp>
-              <elementProp name="tax" elementType="HTTPArgument">
+              <elementProp name="tax[]" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">0.5</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
                 <boolProp name="HTTPArgument.use_equals">true</boolProp>
-                <stringProp name="Argument.name">tax</stringProp>
+                <stringProp name="Argument.name">tax[]</stringProp>
               </elementProp>
-              <elementProp name="tax" elementType="HTTPArgument">
+              <elementProp name="tax[]" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">0.5</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
                 <boolProp name="HTTPArgument.use_equals">true</boolProp>
-                <stringProp name="Argument.name">tax</stringProp>
+                <stringProp name="Argument.name">tax[]</stringProp>
               </elementProp>
-              <elementProp name="tax" elementType="HTTPArgument">
+              <elementProp name="tax[]" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">0.5</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
                 <boolProp name="HTTPArgument.use_equals">true</boolProp>
-                <stringProp name="Argument.name">tax</stringProp>
+                <stringProp name="Argument.name">tax[]</stringProp>
               </elementProp>
-              <elementProp name="tax" elementType="HTTPArgument">
+              <elementProp name="tax[]" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">0.5</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
                 <boolProp name="HTTPArgument.use_equals">true</boolProp>
-                <stringProp name="Argument.name">tax</stringProp>
+                <stringProp name="Argument.name">tax[]</stringProp>
               </elementProp>
-              <elementProp name="name" elementType="HTTPArgument">
+              <elementProp name="name[]" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">車資</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
                 <boolProp name="HTTPArgument.use_equals">true</boolProp>
-                <stringProp name="Argument.name">name</stringProp>
+                <stringProp name="Argument.name">name[]</stringProp>
               </elementProp>
-              <elementProp name="name" elementType="HTTPArgument">
+              <elementProp name="name[]" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">車資</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
                 <boolProp name="HTTPArgument.use_equals">true</boolProp>
-                <stringProp name="Argument.name">name</stringProp>
+                <stringProp name="Argument.name">name[]</stringProp>
               </elementProp>
-              <elementProp name="name" elementType="HTTPArgument">
+              <elementProp name="name[]" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">車資</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
                 <boolProp name="HTTPArgument.use_equals">true</boolProp>
-                <stringProp name="Argument.name">name</stringProp>
+                <stringProp name="Argument.name">name[]</stringProp>
               </elementProp>
-              <elementProp name="name" elementType="HTTPArgument">
+              <elementProp name="name[]" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">車資</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
                 <boolProp name="HTTPArgument.use_equals">true</boolProp>
-                <stringProp name="Argument.name">name</stringProp>
+                <stringProp name="Argument.name">name[]</stringProp>
               </elementProp>
-              <elementProp name="name" elementType="HTTPArgument">
+              <elementProp name="name[]" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">車資</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
                 <boolProp name="HTTPArgument.use_equals">true</boolProp>
-                <stringProp name="Argument.name">name</stringProp>
+                <stringProp name="Argument.name">name[]</stringProp>
               </elementProp>
             </collectionProp>
           </elementProp>
